@@ -6,13 +6,13 @@ O foco aqui é centralizar o conhecimento prático para desenvolvedores e analis
 
 ---
 
-## 🚀 Objetivo do Repositório
+## 🚀 <h2>Objetivo do Repositório</h2>
 
 * **Guiar o Acesso:** Apresentar o passo a passo para criar e configurar uma conta no *ArcGIS
 
 ---
 
-## 🔐 Como Funciona o Acesso à Sandbox X
+## 🔐 <h2>Como Funciona o Acesso à Sandbox</h2>
 
 O ambiente de Sandbox do ArcGIS é obtido através do programa de desenvolvedores da Esri. Abaixo estão as etapas principais para o acesso:
 
